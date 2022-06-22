@@ -1,5 +1,3 @@
-# CSC510-4
-
 
 ### Screencast video link:
 [Screencast Youtube link](https://youtu.be/NhmFTra6HU0)
