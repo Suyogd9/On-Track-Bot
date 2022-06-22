@@ -1,0 +1,32 @@
+{
+  "name": "ontrack",
+  "version": "1.0.0",
+  "description": "OnTrack- keeps you on track !!",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mattermost-client": "^6.5.0",
+    "nock": "^13.2.4",
+    "pg": "^8.7.3",
+    "sinon-chai": "^3.7.0"
+  },
+  "devDependencies": {
+    "c8": "^7.11.0",
+    "chai": "^4.3.6",
+    "cross-env": "^7.0.3",
+    "mocha": "^9.2.1",
+    "nodemon": "^2.0.15",
+    "sinon": "^13.0.1"
+  },
+  "scripts": {
+    "test": "cross-env NODE_ENV=\"test\" mocha --report spec --recursive",
+    "c8": "c8 npm test",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ncsu.edu:csc510-s2022/CSC510-4.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
