@@ -22,21 +22,4 @@
     ansible-playbook -e @secret-vars.yml install-app.yml
 
 
-## Contributors
-<a href="https://github.ncsu.edu/sdharma2">
-  <img src="https://github.ncsu.edu/sdharma2.png?size=50">
-</a>
-
-<a href="https://github.ncsu.edu/ssnemman">
-  <img src="https://github.ncsu.edu/ssnemman.png?size=50">
-</a>
-
-<a href="https://github.ncsu.edu/vspingle">
-  <img src="https://github.ncsu.edu/vspingle.png?size=50">
-</a>
-
-<a href="https://github.ncsu.edu/vdeshmu">
-  <img src="https://github.ncsu.edu/vdeshmu.png?size=50">
-</a>
-
 
